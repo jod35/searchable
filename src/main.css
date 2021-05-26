@@ -1,0 +1,12 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.notes{
+    width:50%;
+    margin:auto;
+}
+.note{
+    padding:20px;
+    border:1px solid black;
+    width:80%;
+}
